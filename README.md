@@ -1,8 +1,18 @@
-# React + Vite
+# Prayers timing
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+was used
 
-Currently, two official plugins are available:
+## Mui
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### responsive screen with Mui
+
+- grid v2
+- stack
+- cards
+- select
+
+  install `npm install @mui/material @emotion/react @emotion/styled`
+
+## google fonts (Cairo)
+
+- Fonts have been loaded into the project
