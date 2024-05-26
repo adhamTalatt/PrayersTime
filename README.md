@@ -2,6 +2,10 @@
 
 was used
 
+## vite
+
+for build structure react.js project
+
 ## Mui
 
 ### responsive screen with Mui
@@ -16,3 +20,19 @@ was used
 ## google fonts (Cairo)
 
 - Fonts have been loaded into the project
+
+## Axios
+
+For Request Api
+
+install `npm install axios`
+
+## moment
+
+arse, validate, manipulate, and display dates and times in JavaScript
+
+install `npm install moment`
+
+# Api from aladhan.com
+
+url api `https://aladhan.com/prayer-times-api#GetTimingsByCity`
