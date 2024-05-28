@@ -2,6 +2,11 @@
 
 was used
 
+## React Hooks
+
+- useState
+- useEffect
+
 ## vite
 
 for build structure react.js project
@@ -29,10 +34,14 @@ install `npm install axios`
 
 ## moment
 
-arse, validate, manipulate, and display dates and times in JavaScript
+Parse, validate, manipulate, and display dates and times in JavaScript
 
 install `npm install moment`
 
-# Api from aladhan.com
+## Api from aladhan.com
 
 url api `https://aladhan.com/prayer-times-api#GetTimingsByCity`
+
+# url demo projec
+
+https://prayerstime-atz.netlify.app/
