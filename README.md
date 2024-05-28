@@ -42,6 +42,6 @@ install `npm install moment`
 
 url api `https://aladhan.com/prayer-times-api#GetTimingsByCity`
 
-# url demo projec
+# url demo project
 
 https://prayerstime-atz.netlify.app/
