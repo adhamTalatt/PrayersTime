@@ -1,6 +1,7 @@
-## Api from aladhan.com
 
-url api `https://aladhan.com/prayer-times-api#GetTimingsByCity`
+# url demo project
+
+https://prayerstime-atz.netlify.app/
 
 
 
@@ -44,7 +45,7 @@ Parse, validate, manipulate, and display dates and times in JavaScript
 
 install `npm install moment`
 
+## Api from aladhan.com
 
-# url demo project
+url api `https://aladhan.com/prayer-times-api#GetTimingsByCity`
 
-https://prayerstime-atz.netlify.app/
