@@ -1,3 +1,9 @@
+## Api from aladhan.com
+
+url api `https://aladhan.com/prayer-times-api#GetTimingsByCity`
+
+
+
 # Prayers timing
 
 was used
@@ -38,9 +44,6 @@ Parse, validate, manipulate, and display dates and times in JavaScript
 
 install `npm install moment`
 
-## Api from aladhan.com
-
-url api `https://aladhan.com/prayer-times-api#GetTimingsByCity`
 
 # url demo project
 
